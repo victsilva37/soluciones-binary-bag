@@ -1,4 +1,4 @@
-# Soluciones Binary Bag
+# Soluciones BinaryBag
 
 Soluciones para las preguntas de entrevista de BinaryBag resueltos en Python y SQL.
 
